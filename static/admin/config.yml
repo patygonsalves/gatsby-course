@@ -2,7 +2,7 @@ backend:
   name: github
   repo: patygonsalves/gatsby-course
   branch: master
-  site_domain: https://patygonsalves.netlify.com/
+  site_domain: https://github.com/patygonsalves/gatsby-course
 
 publish_mode: editorial_workflow
 media_folder: "static/assets/img"

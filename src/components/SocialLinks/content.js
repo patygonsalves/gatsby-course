@@ -7,19 +7,15 @@ const links = [
   },
   {
     label: "Twitter",
-    url: `https://twitter.com/${handle}`,
-  },
-  {
-    label: "Youtube",
-    url: `https://www.youtube.com/${handle}`,
+    url: 'https://twitter.com/patygonsalves_',
   },
   {
     label: "Instagram",
     url: `https://www.instagram.com/${handle}`,
   },
   {
-    label: "Unsplash",
-    url: `https://unsplash.com/${handle}`,
+    label: "LinkedIn",
+    url: `https://www.linkedin.com/in/${handle}`,
   },
 ]
 
